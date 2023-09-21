@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tsvetelin Dimitrov
+Hi, I’m Tsvetelin Dimitrov!👋
 - 🌱 I’m currently learning JavaScript
 
 
