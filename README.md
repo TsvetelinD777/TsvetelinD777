@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tsvetelin Dimitrov
 - 🌱 I’m currently learning JavaScript
-- 📫 
+
 
 <!---
 TsvetelinD777/TsvetelinD777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
